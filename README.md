@@ -7,6 +7,12 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-222831?style=flat-square&logo=#007396&logoColor=white"/></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-222831?style=flat-square&logo=#007396&logoColor=white"/></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-222831?style=flat-square&logo=#007396&logoColor=white"/></a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-222831?style=flat-square&logo=#007396&logoColor=white"/></a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/aws-48466D?style=flat-square&logo=#007396&logoColor=white"/></a> 
+
+
+
+
 📂 포트폴리오 : https://github.com/1000MARIN/portfolio    
 📫 How to reach me: leexjin@gmail.com    
  
