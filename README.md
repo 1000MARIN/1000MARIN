@@ -3,3 +3,6 @@
 📂 포트폴리오 : https://github.com/1000MARIN/portfolio    
 📫 How to reach me: leexjin@gmail.com    
  
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1000marin&show_icons=true&theme=radical)
