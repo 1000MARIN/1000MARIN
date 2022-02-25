@@ -1,10 +1,10 @@
 
 
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">👋 Hi there 👋</h2>
 
 <br>  
   
-<p align="center"> 🌱 어디서든 잘 적응하고, 커뮤니케이션 잘하고, 배움에 있어서도 꾸준히 학습하고 성장하는 개발자입니다. </p>  
+<p align="center"> 🌱 어디서든 잘 적응하고, 커뮤니케이션 잘하고, 배움에 있어서도 꾸준히 학습하고 성장하는 개발자입니다. 🌱</p>  
 
 <br>  
 
@@ -21,12 +21,12 @@
 </p>
 
 <br>  
-<p align="center">📂 포트폴리오</p>
+<p align="center">📂 포트폴리오 📂</p>
 <p align="center">https://github.com/1000MARIN/portfolio</p>    
 
 <br>  
 
-<p align="center">📫 How to reach me</p>
+<p align="center">📫 How to reach me 📫</p>
 <p align="center"><a href="" target=""><img src="https://img.shields.io/badge/leexjin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
 
 <br>
