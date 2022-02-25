@@ -31,11 +31,9 @@
 
 <br>
 
-<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1000marin&layout=compact&theme=prussian)
-</p>
-<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1000marin&show_icons=true&theme=prussian)   
-</p>
+
 
 
