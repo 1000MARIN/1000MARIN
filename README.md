@@ -32,6 +32,7 @@
 <p align="center"><a href="www.gmail.com" target="_blank"><img src="https://img.shields.io/badge/leexjin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
 
 <br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1000marin&layout=compact&theme=prussian"/>
 </p>
