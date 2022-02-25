@@ -7,7 +7,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-222831?style=flat-square&logo=#007396&logoColor=white"/></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-222831?style=flat-square&logo=#007396&logoColor=white"/></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-222831?style=flat-square&logo=#007396&logoColor=white"/></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-222831?style=flat-square&logo=#007396&logoColor=white"/></a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/aws-48466D?style=flat-square&logo=#007396&logoColor=white"/></a> 
 
 
