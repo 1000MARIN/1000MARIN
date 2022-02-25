@@ -22,8 +22,7 @@
 
 <br>  
 
-<p align="center">📫 How to reach me 📫</p>
-<p align="center"><a href="www.gmail.com" target="_blank"><img src="https://img.shields.io/badge/leexjin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
+<p align="center">📫 <a href="www.gmail.com" target="_blank"><img src="https://img.shields.io/badge/leexjin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 📫</p>
 
 <br>
 
