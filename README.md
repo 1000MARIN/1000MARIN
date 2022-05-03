@@ -17,11 +17,6 @@
 
 <br>  
 
-<p align="center">📂 포트폴리오 📂</p>
-<p align="center">https://github.com/1000MARIN/portfolio</p>    
-
-<br>  
-
 <p align="center">📫 <img src="https://img.shields.io/badge/leexjin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 📫</p>
 
 <br>
