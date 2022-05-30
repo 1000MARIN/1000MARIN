@@ -17,7 +17,7 @@
 
 <br>  
 
-<p align="center">📫 <img src="https://img.shields.io/badge/leexjin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 📫</p>
+<p align="center">📫 <img src="https://img.shields.io/badge/dev1000marin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 📫</p>
 
 <br>
 
